@@ -1,0 +1,29 @@
+body {
+  font-family: PT Sans Narrow, Arial, Verdana, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: bold;
+  color: #000000;
+  text-transform: uppercase;
+}
+
+.main-title,
+.features-title,
+.page-title {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.features-description {
+  color: #f7f4f1;
+}
+
+legend {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.filter-option,
+.catalog-item-title {
+  line-height: 18px;
+}
